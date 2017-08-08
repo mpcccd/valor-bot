@@ -1,0 +1,15 @@
+{
+  "name": "valor-bot",
+  "version": "1.0.0",
+  "description": "bot for gymraid notifications on discord",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.1.0"
+  }
+}
