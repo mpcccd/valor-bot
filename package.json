@@ -10,9 +10,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "discord.js": "^11.1.0",
-    "lomath": "^0.3.0",
-    "request": "^2.81.0",
-    "request-promise": "^4.2.1"
+    "discord.js": "^11.1.0"
   }
 }
